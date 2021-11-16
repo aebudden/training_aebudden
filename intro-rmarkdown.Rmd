@@ -1,0 +1,22 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(readr)
+```
+
+# Introduction
+
+Read in data
+
+```{r read data, message=FALSE, warning=FALSE}
+bg_chem <- read_csv("data/BGchem2008data.csv")
+```
+
+
