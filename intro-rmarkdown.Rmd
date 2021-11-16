@@ -13,7 +13,7 @@ library(readr)
 
 # Introduction
 
-Read in data
+Read in the data
 
 ```{r read data, message=FALSE, warning=FALSE}
 bg_chem <- read_csv("data/BGchem2008data.csv")
