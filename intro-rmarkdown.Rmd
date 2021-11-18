@@ -19,4 +19,4 @@ Read in the data
 bg_chem <- read_csv("data/BGchem2008data.csv")
 ```
 
-
+Jeanette's changes
